@@ -2,7 +2,7 @@
 Library    SeleniumLibrary
 
 *** Variables ***
-${LOGIN_PAGE}         http://192.168.34.46:8000/index.html
+${LOGIN_PAGE}         http://localhost:8000/index.html
 ${BROWSER}            chrome
 ${VALID_USER}         admin
 ${VALID_PASSWORD}     123456
